@@ -15,9 +15,9 @@ IntelliQR Meal Scanner is an Android application designed to scan QR codes for m
 - Enabled/disabled state for scanning based on a switch control.
 
 ## Screenshots
-
-![Home Screen](screenshots/home_screen.png)
-![Scan Screen](screenshots/scan_screen.png)
+![Home Screen](https://github.com/Kartikey03/Trikon/assets/77600935/5aad17f9-60a2-4acb-b6be-db73e76eae5d)
+![Social Media Screen](https://github.com/Kartikey03/Trikon/assets/77600935/ead10fd9-35ad-468e-8a7c-66e53701e9b2)
+![Scanning Screen](https://github.com/Kartikey03/Trikon/assets/77600935/d49b04ce-f32a-47d4-ae70-a7a707ca024a)
 
 ## Setup and Installation
 
