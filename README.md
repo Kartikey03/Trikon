@@ -32,8 +32,8 @@ IntelliQR Meal Scanner is an Android application designed to scan QR codes for m
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/IntelliQR-Meal-Scanner.git
-   cd IntelliQR-Meal-Scanner
+   git clone https://github.com/Kartikey03/Trikon.git
+   cd Trikon
    ```
 
 2. **Open in Android Studio**
@@ -104,26 +104,7 @@ We welcome contributions from the community. Please follow these steps to contri
    - Click the "New Pull Request" button.
    - Provide a description of your changes and submit the pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact us directly at your-email@example.com.
+If you have any questions or suggestions, feel free to open an issue or contact us directly at info.kartik2003@gmail.com.
 
 Thank you for using IntelliQR Meal Scanner! We hope this app helps in managing meal distribution effectively at your events.
-
-
-## Explanation:
-
-1. **Overview**: Provides a brief description of the project.
-2. **Features**: Lists key features of the app.
-3. **Screenshots**: Placeholder for screenshots to visually represent the app.
-4. **Setup and Installation**: Detailed steps to set up and run the project locally.
-5. **Usage**: Instructions on how to use the app.
-6. **Contributing**: Guidelines for contributing to the project.
-7. **License**: Information about the project's license.
-8. **Contact**: How to reach out for questions or suggestions.
-
-Feel free to customize this README file according to your project's specific details and requirements.
