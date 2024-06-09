@@ -1,6 +1,3 @@
-Sure, here's the complete content formatted for a `README.md` file:
-
-```markdown
 # IntelliQR Meal Scanner App
 
 ## Overview
@@ -115,12 +112,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to open an issue or contact us directly at your-email@example.com.
 
----
-
 Thank you for using IntelliQR Meal Scanner! We hope this app helps in managing meal distribution effectively at your events.
-```
 
-### Explanation:
+
+## Explanation:
 
 1. **Overview**: Provides a brief description of the project.
 2. **Features**: Lists key features of the app.
